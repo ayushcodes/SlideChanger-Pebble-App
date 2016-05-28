@@ -1,0 +1,40 @@
+{
+    "appKeys": {
+        "AppKeyRequestData": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ayush Pateria",
+    "enableMultiJS": false,
+    "longName": "Slides Changer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_icon_next.png",
+                "name": "IMAGE_ACTION_ICON_NEXT",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/action_icon_prev.png",
+                "name": "IMAGE_ACTION_ICON_PREV",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "SlidesChanger",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "26fbdcfa-1f54-403e-b5c7-f68420736bf3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
