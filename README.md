@@ -7,3 +7,5 @@ Steps to install :
 2) Go to slidechanger_pebble/src/app.js and change the ip address there to your server's ip address.
 
 Install and run the app!
+
+This app was made in the Hackathon AngelHack.
